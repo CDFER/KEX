@@ -40,7 +40,7 @@ A fast and feature-rich implementation of an ESP32 board with NeoPixel Led (WS28
 ## 💾 Pinout
 Pin | IO2 | IO4 | IO14 | IO15 | IO21 | IO22 | IO27 | IO32 | IO33 | IO36
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |---
-Usage | LED Output | Down TouchPad | SCK | WS | SDA | SCL | Middle TouchPad | SD |  Up TouchPad | Analog Input 
+Usage | LED Output | Down Touch Pad | SCK | WS | SDA | SCL | Middle Touch Pad | SD |  Up Touch Pad | Analog Input 
 LED | Yellow | | White | White | Red | Green | | White | | |
 Level Shifted | | |✅|✅|✅|✅| |✅| 
 
