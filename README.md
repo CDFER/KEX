@@ -1,4 +1,8 @@
-# KEX a Rapid Deployment ESP32 Board
+# Currently not maintained or tested, use at your own risk
+
+
+
+## KEX a Rapid Deployment ESP32 Board
 A fast and feature-rich implementation of an ESP32 board with NeoPixel Led (WS2812B, WS2811, SK6812), I2S (Digital microphone) and I2C outputs.
 
 <img src="KEX1/images/Bottom.png" width="50%"><img src="KEX1/images/Top.png" width="50%">
@@ -19,7 +23,7 @@ A fast and feature-rich implementation of an ESP32 board with NeoPixel Led (WS28
 - Easy soldering of led strips directly to the PCB with Strain Releaf slots
 
 
-## 📲 Quickstart for WLED
+## 📲 Quickstart
 1. Solder the ESP32 to the footprint on the PCB
 
 2. Connect up to 120 NeoPixels (WS2812B, WS2811, SK6812) to the output pads (IO2). 
